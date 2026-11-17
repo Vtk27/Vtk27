@@ -41,3 +41,7 @@ I explore software through hands-on projects: backend services, messaging workfl
 - **Backend systems:** service design and event-driven communication.
 - **AI applications:** document retrieval and email classification.
 - **Software design:** design patterns and low-level design in Java.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vtk27&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
